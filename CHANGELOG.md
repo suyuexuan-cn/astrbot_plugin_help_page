@@ -2,6 +2,13 @@
 
 本插件的版本变更记录。格式参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)，版本号遵循语义化版本。
 
+## [1.3.2] - 2026-11-11
+
+### 变更
+
+- 仓库地址迁移：`metadata.yaml` 的 `repo` 与 README 作者主页链接改到新账号 `suyuexuan-cn`。
+- 版本号由 1.3.1 升至 1.3.2。
+
 ## [1.3.1] - 2026-10-23
 
 ### 修复
