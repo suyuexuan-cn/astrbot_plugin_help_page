@@ -175,7 +175,7 @@ astrbot_plugin_help_page/
 
 ## 作者
 
-- [苏月晅](https://suyuexuan-cn/)
+- [苏月晅](https://suyuexuan.cn/)
 
 ## 许可证
 
